@@ -1,0 +1,6 @@
+D:\C sharp vsichko\proekti\Homework 1\Zadacha 7\bin\Debug\Zadacha 7.exe.config
+D:\C sharp vsichko\proekti\Homework 1\Zadacha 7\obj\Debug\Zadacha 7.csprojResolveAssemblyReference.cache
+D:\C sharp vsichko\proekti\Homework 1\Zadacha 7\bin\Debug\Zadacha 7.exe
+D:\C sharp vsichko\proekti\Homework 1\Zadacha 7\bin\Debug\Zadacha 7.pdb
+D:\C sharp vsichko\proekti\Homework 1\Zadacha 7\obj\Debug\Zadacha 7.exe
+D:\C sharp vsichko\proekti\Homework 1\Zadacha 7\obj\Debug\Zadacha 7.pdb

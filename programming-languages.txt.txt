@@ -1,0 +1,21 @@
+For me the most popular programming languages are Java , JavaScript , C++ and C#.
+
+About Issues C# vs C++
+Limitation: With C#, features like multiple inheritance from classes (C# implements a different approach called Multiple Implementation, 
+where a class can implement more than one interface), declaring objects on the stack, deterministic destruction (allowing RAII) 
+and allowing default arguments as function parameters (in C# versions < 4.0) will not be available.
+Performance (speed and size): Applications built in C# may not perform as well when compared with native C++. C# has an intrusive garbage collector,
+reference tracking and other overheads with some of the framework services. The .NET framework alone has a big runtime footprint (~30 Mb of memory), 
+and requires that several versions of the framework be installed.
+Flexibility: Due to the dependency on the .NET framework, operating system level functionality (system level APIs) 
+is buffered by a generic set of functions that will reduce some freedoms.
+
+In my opinian Java and C# are similar programming languages that are statically, strongly,
+and manifestly typed, both are class-based object-oriented, both are designed with semi-interpretation or runtime compilation in mind,
+both use garbage-collection, and both are "curly brace languages" like C and C++.
+
+
+
+Javascript is a non-typed scripting language, which means it typically runs uncompiled in browsers. 
+
+C# is a strongly-typed language, which is typically compiled into a .dll. 

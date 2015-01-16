@@ -1,0 +1,17 @@
+Eclipse
+
+The interface is a lot cleaner and concise than Visual Studio and the languages that are possible to use extend past the 
+.Net Framework. Besides being the number on way to develop Android applications via the Android SDK, 
+it is fully extensible to use languages such as Ruby, C, C++ and many many more.
+
+Netbeans
+
+This program is extensible and free, and it compiles code which is a bonus.
+When installing Netbeans it comes with a Java server called GlassFish that you could deploy on your computer 
+for your testing environment. This server is the second biggest server for Java next to WebSphere 
+
+gedit
+
+gedit is the official editor of the gnome desktop and comes installed once the system is setup. 
+Very useful for the user that is casually editing code and not undertaking major projects. 
+This would be a good companion to Netbeans or Eclipse.
